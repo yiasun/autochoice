@@ -1,0 +1,122 @@
+[
+  {
+    "model": "比亚迪 秦L DM-i",
+    "energy": "phev",
+    "body": "sedan",
+    "price_demo_wan": 12.0,
+    "family_score": 8,
+    "space_score": 8,
+    "tech_score": 7,
+    "cost_score": 9
+  },
+  {
+    "model": "比亚迪 海豹06 DM-i",
+    "energy": "phev",
+    "body": "sedan",
+    "price_demo_wan": 12.5,
+    "family_score": 8,
+    "space_score": 8,
+    "tech_score": 7,
+    "cost_score": 9
+  },
+  {
+    "model": "小鹏 MONA M03",
+    "energy": "bev",
+    "body": "sedan",
+    "price_demo_wan": 14.0,
+    "family_score": 7,
+    "space_score": 7,
+    "tech_score": 9,
+    "cost_score": 9
+  },
+  {
+    "model": "特斯拉 Model 3",
+    "energy": "bev",
+    "body": "sedan",
+    "price_demo_wan": 23.5,
+    "family_score": 7,
+    "space_score": 7,
+    "tech_score": 9,
+    "cost_score": 8
+  },
+  {
+    "model": "小米 SU7",
+    "energy": "bev",
+    "body": "sedan",
+    "price_demo_wan": 22.0,
+    "family_score": 7,
+    "space_score": 7,
+    "tech_score": 10,
+    "cost_score": 8
+  },
+  {
+    "model": "吉利 银河E5",
+    "energy": "bev",
+    "body": "suv",
+    "price_demo_wan": 13.5,
+    "family_score": 9,
+    "space_score": 9,
+    "tech_score": 8,
+    "cost_score": 9
+  },
+  {
+    "model": "比亚迪 宋PLUS DM-i",
+    "energy": "phev",
+    "body": "suv",
+    "price_demo_wan": 15.5,
+    "family_score": 9,
+    "space_score": 9,
+    "tech_score": 7,
+    "cost_score": 8
+  },
+  {
+    "model": "零跑 C10",
+    "energy": "bev",
+    "body": "suv",
+    "price_demo_wan": 14.5,
+    "family_score": 9,
+    "space_score": 9,
+    "tech_score": 8,
+    "cost_score": 9
+  },
+  {
+    "model": "丰田 凯美瑞双擎",
+    "energy": "hev",
+    "body": "sedan",
+    "price_demo_wan": 19.0,
+    "family_score": 8,
+    "space_score": 8,
+    "tech_score": 6,
+    "cost_score": 7
+  },
+  {
+    "model": "本田 雅阁 e:HEV",
+    "energy": "hev",
+    "body": "sedan",
+    "price_demo_wan": 20.0,
+    "family_score": 8,
+    "space_score": 8,
+    "tech_score": 6,
+    "cost_score": 7
+  },
+  {
+    "model": "大众 迈腾",
+    "energy": "ice",
+    "body": "sedan",
+    "price_demo_wan": 18.5,
+    "family_score": 8,
+    "space_score": 8,
+    "tech_score": 6,
+    "cost_score": 5
+  },
+  {
+    "model": "大众 途观L",
+    "energy": "ice",
+    "body": "suv",
+    "price_demo_wan": 21.5,
+    "family_score": 9,
+    "space_score": 9,
+    "tech_score": 6,
+    "cost_score": 5
+  }
+]
